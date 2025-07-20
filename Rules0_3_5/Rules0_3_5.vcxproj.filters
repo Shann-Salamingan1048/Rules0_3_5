@@ -23,5 +23,8 @@
     <ClInclude Include="Rule3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Rule5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
